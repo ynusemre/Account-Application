@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76d654ae-cd14-497a-8e9a-88c01794c177" name="Changes" comment="initial front-end commit">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/AccountApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/controller/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/dto/AccountCustomerDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/dto/AccountDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/dto/CreateAccountRequest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/dto/CustomerAccountDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/dto/CustomerDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/dto/TransactionDto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/dto/converter/AccountDtoConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/dto/converter/CustomerAccountDtoConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/dto/converter/CustomerDtoConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/dto/converter/TransactionDtoConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/exception/CustomerNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/exception/GeneralExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/model/Account.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/model/Customer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/model/Transaction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/repository/AccountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/repository/TransactionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/folksdev/account/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/folksdev/account/AccountApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/folksdev/account/IntegrationTestSupport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/folksdev/account/TestSupport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/folksdev/account/controller/AccountControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/folksdev/account/controller/CustomerControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/folksdev/account/service/AccountServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/folksdev/account/service/CustomerServiceTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MZ1qFiXrYx7IZjW9Hg2ij5MOY5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/b3/Desktop/Java-WorkSpace/account/account-fe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76d654ae-cd14-497a-8e9a-88c01794c177" name="Changes" comment="" />
+      <created>1677960479300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677960479300</updated>
+      <workItem from="1677960480376" duration="3631000" />
+      <workItem from="1677998849801" duration="13053000" />
+      <workItem from="1678048251051" duration="2806000" />
+      <workItem from="1678188013834" duration="731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial front-end commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial front-end commit" />
+  </component>
+</project>
